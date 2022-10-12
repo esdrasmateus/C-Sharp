@@ -1,0 +1,7 @@
+C:\Users\esdra\OneDrive\Área de Trabalho\Programação\C#\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\esdra\OneDrive\Área de Trabalho\Programação\C#\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\esdra\OneDrive\Área de Trabalho\Programação\C#\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\esdra\OneDrive\Área de Trabalho\Programação\C#\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\esdra\OneDrive\Área de Trabalho\Programação\C#\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\esdra\OneDrive\Área de Trabalho\Programação\C#\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\esdra\OneDrive\Área de Trabalho\Programação\C#\NumberGuesser\obj\Debug\NumberGuesser.pdb
